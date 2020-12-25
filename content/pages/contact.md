@@ -1,6 +1,8 @@
 ---
 title: Contact
 sections:
+  - type: blo
+    text: Hola this is editable
   - type: hero_section
     title: Get in touch
     subtitle: >-
